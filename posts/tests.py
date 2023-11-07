@@ -1,5 +1,5 @@
 from django.test import TestCase
-from django.urls import reverseلهف
+from django.urls import reverse
 from .models import Post
 
 class PostTests(TestCase):
